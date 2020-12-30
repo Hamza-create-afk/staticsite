@@ -1,0 +1,177 @@
+.firstsection{
+    height: 130vh;
+    width: 99vw;
+    background-image: url(./assets/gradient-violet-bg.jpg);
+    background-size: cover;
+    margin: -10px;
+}
+
+.mainnavbar a {
+    /* list-style-type: none; */
+    /* margin: 0; */
+    /* padding: 0; */
+    /* margin-left: 860px; */
+    margin-top: 11px;
+    /* position: fixed; */
+    padding: 17px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 2.9 em;
+    /* padding: 4px; */
+}
+.kasts{
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+}
+.mainnavbar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+ #logo{
+    width: 300px ;
+    height: 200px;
+}
+
+.newlogo{
+
+    /* height: 50px; */
+    width: 30%;
+    margin-top: 15px;
+    margin-left: 10px;
+    /* position: fixed; */
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.openKastLink a {
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 3px;
+    border-width: 1.7px;
+    padding: 0px;
+}
+.openKastLink  {
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    border-width: 1.7px;
+    padding: 0px;
+}
+.laptop{
+    height: 600px;
+    width: 900px;
+    padding-bottom: -10px;
+    padding-top: 10px;
+}
+
+.button5{
+    -webkit-appearance: button;
+    background-color:#fe9000;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 12px;
+    width: 200px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 850px;
+    letter-spacing: 1.4px;
+
+}
+.middlearea{
+    display: block;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.middlearea h1 {
+    color: white;
+    font-size: 2.8em;
+}
+.middlearea p {
+    color: white;
+    font-size: 1.7em;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lastsection{
+    margin: 10px auto;
+    text-align: center;
+    /* width: 100%; */
+    /* height: 1vh; */
+}
+
+.lastsection h2 {
+    max-width: 710px;
+    text-align: center;
+    margin: auto;
+    margin-top: 120px;
+    font-size: 3em;
+    color: rgb(63, 61, 61);
+    padding: 90px;
+}
+
+.textforpictures{
+    display: flex;
+    justify-content: space-around;
+}
+/* .popcorn .paperairplane img.heart{ */
+    
+    .textforpictures p img{
+        /* display: flex; */
+    width: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 0.9em;
+    line-height: 160%; 
+}
+
+.learnMore{
+    color: orange;
+    text-decoration: none;
+    font-size: 0.9em;
+    margin-bottom: 20px;
+    
+}
+
+.discount{
+    font-size: 1.6em;
+    margin-top: 50px;
+    max-width: 575px;
+    display: inline-block;
+    line-height: 170%;
+}
+
+.button1{
+    -webkit-appearance: button;
+    background-color:#fe9000;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 12px;
+    width: 270px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    font-size: 1.1em;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+
+
